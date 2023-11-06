@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 import {
   Container,
@@ -10,22 +10,19 @@ import {
   Button,
   Image,
 } from "@chakra-ui/react";
+import "aos/dist/aos.css";
 
 export default function Sustainablity() {
   return (
-    <Container maxW={"8xl"}>
+    <Container maxW={"8xl"} data-aos="fade-up" data-aos-duration="1000">
       <Stack
         align={"center"}
         spacing={{ base: 8, md: 10 }}
-        py={ 10}
+        py={10}
         direction={{ base: "column", md: "row" }}
       >
         <Flex flex={1} justify={"center"} align={"center"} w={"full"}>
-          <Box
-            height={"400px"}
-            width={"full"}
-            overflow={"hidden"}
-          >
+          <Box height={"400px"} width={"full"} overflow={"hidden"}>
             <Image
               alt={"Hero Image"}
               fit={"cover"}
