@@ -2,6 +2,10 @@
 
  This project involves creating a clone of the ntwist.com homepage using vite + React.js and Chakra UI. Follow these steps to get started:
 
+ 
+[Deployed Link](https://ajay-ntwist.netlify.app/) &nbsp;
+[Github Link](https://github.com/Ajay84sia/NTWIST-Clone)
+
 # Prerequisites
 Before you begin, make sure you have the following installed:
 
@@ -94,8 +98,6 @@ Happy coding! Feel free to reach out if you have any questions or need further a
 ![image](https://github.com/Ajay84sia/NTWIST-Clone/assets/98752820/35ebe700-3794-48ba-a4c0-6e1ca5dfdc67)
 
 
-[Deployed Link](https://ajay-ntwist.netlify.app/) &nbsp;
-[Github Link](https://github.com/Ajay84sia/NTWIST-Clone)
 
 
 
