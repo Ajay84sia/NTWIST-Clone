@@ -74,8 +74,6 @@ You can customize the clone by editing the React components and styles in the sr
 - React.js documentation: [React Documentation](https://reactjs.org/docs/getting-started.html)
 - Netlify documentation: [Netlify Docs](https://docs.netlify.com/)
 
-Happy coding! Feel free to reach out if you have any questions or need further assistance.
-
  ## Output (Large Screen): 
 
  ## Header -
@@ -97,7 +95,7 @@ Happy coding! Feel free to reach out if you have any questions or need further a
 ## Footer - 
 ![image](https://github.com/Ajay84sia/NTWIST-Clone/assets/98752820/35ebe700-3794-48ba-a4c0-6e1ca5dfdc67)
 
-
+Happy coding! Feel free to reach out if you have any questions or need further assistance.
 
 
 
